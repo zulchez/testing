@@ -38,10 +38,10 @@
     }
   ],
   "next-orders": [
-    {"orderNumber" : "# 123456789", "date" :"27 / 09 / 2021"},
-    {"orderNumber" : "# 123456789", "date" :"27 / 09 / 2021"},
-    {"orderNumber" : "# 123456789", "date" :"27 / 09 / 2021"},
-    {"orderNumber" : "# 123456789", "date" :"27 / 09 / 2021"},
-    {"orderNumber" : "# 123456789", "date" :"27 / 09 / 2021"}
+    {"orderNumber": "# 123456789", "fullDate": "27 / 09 / 2021", "day": "27" , "month": "09", "year": "2021"},
+    {"orderNumber": "# 123456789", "fullDate": "27 / 09 / 2021", "day": "27" , "month": "09", "year": "2021"},
+    {"orderNumber": "# 123456789", "fullDate": "27 / 09 / 2021", "day": "27" , "month": "09", "year": "2021"},
+    {"orderNumber": "# 123456789", "fullDate": "27 / 09 / 2021", "day": "27" , "month": "09", "year": "2021"},
+    {"orderNumber": "# 123456789", "fullDate": "27 / 09 / 2021", "day": "27" , "month": "09", "year": "2021"}
   ]
 }
