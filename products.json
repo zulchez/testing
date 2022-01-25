@@ -57,5 +57,14 @@
     {"orderNumber": "# 7588", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 5.000", "currency": "USD" },
     {"orderNumber": "# 7589", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 5.000", "currency": "USD" },
     {"orderNumber": "# 7590", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 30.000", "currency": "USD" }
+  ],
+  "timelineHistory": [
+    {"time": "14:00", "date": "21 ago 2021", "description": "Se Asignó Turno", "link": "Hace 24h" },
+    {"time": "14:00", "date": "21 ago 2021", "description": "Pedido Creado" },
+    {"time": "17:49", "date": "21 ago 2021", "description": "Camión En Planta", "detail": "Orden de cargue", "link": "Ver PDF" },
+    {"time": "20:49", "date": "21 ago 2021", "description": "Camión En Tránsito", "link": "Link de rastreo" },
+    {"time": "07:00", "date": "21 ago 2021", "description": "Pedido Entregado" },
+    {"time": "07:30", "date": "21 ago 2021", "description": "Se Realiza Remisión", "link": "Ver factura" },
+    {"time": "07:40", "date": "21 ago 2021", "description": "Falta Depósito", "link": "Ver detalle" }
   ]
 }
