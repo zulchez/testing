@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "Cemento Holcim Fuerte",
-      "tonConsumption": "17/32",
+      "tonConsumption": "32",
       "currency": "USD",
       "consumption": "$10.000",
       "outstandingBalance": "$1.000",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Cemento Holcim Fuerte",
-      "tonConsumption": "17/32",
+      "tonConsumption": "30",
       "currency": "USD",
       "consumption": "$10.000",
       "outstandingBalance": "$1.000",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Cemento Holcim Fuerte",
-      "tonConsumption": "17/32",
+      "tonConsumption": "23",
       "currency": "USD",
       "consumption": "$10.000",
       "outstandingBalance": "$1.000",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Cemento Holcim Fuerte",
-      "tonConsumption": "17/32",
+      "tonConsumption": "15",
       "currency": "USD",
       "consumption": "$10.000",
       "outstandingBalance": "$1.000",
